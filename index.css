@@ -1,0 +1,16 @@
+body 
+{
+width:1020px;
+height:720px;
+background-color: #0F0;
+}
+
+.wrapper 
+{
+width:80%;
+height:80%;
+background-color: rgba(0,0,0,0.1);
+background-repeat: repeat-x;
+background-repeat: repeat-y;
+background-position: right:-20%  bottom:-20%;
+}
